@@ -1,2 +1,6 @@
 NeuralNetworksandDeepLearning/2LogisticRegression/datasets
 NeuralNetworksandDeepLearning/5DeepNeuralNetworkApplication/datasets
+3ConvolutionalNeuralNetworks/Week3/CarDetectionWithYOLO/model_data/variables/variables.data-00000-of-00001
+3ConvolutionalNeuralNetworks/Week3/CarDetectionWithYOLO/nb_images/*.mp4
+3ConvolutionalNeuralNetworks/Week3/ImageSegmentationwithUNet/data
+3ConvolutionalNeuralNetworks/Week2/TransferLearningWithMobileNet/dataset
