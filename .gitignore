@@ -4,3 +4,4 @@ NeuralNetworksandDeepLearning/5DeepNeuralNetworkApplication/datasets
 3ConvolutionalNeuralNetworks/Week3/CarDetectionWithYOLO/nb_images/*.mp4
 3ConvolutionalNeuralNetworks/Week3/ImageSegmentationwithUNet/data
 3ConvolutionalNeuralNetworks/Week2/TransferLearningWithMobileNet/dataset
+3ConvolutionalNeuralNetworks/Week4/FaceRecognition/keras-facenet-h5/model.h5
