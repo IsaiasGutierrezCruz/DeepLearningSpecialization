@@ -27,6 +27,21 @@ Instructor: [Andrew Ng](https://www.coursera.org/instructor/andrewng)
 This course was theoretical
 
 ### 4. Convolutional Neural Networks
-1. []()
+1. [Convolution Model Step by Step](https://github.com/IsaiasGutierrezCruz/DeepLearningSpecialization/blob/main/3ConvolutionalNeuralNetworks/Week1/Convolution_model_Step_by_Step_v1.ipynb)
+2. [Convolution Model Application](https://github.com/IsaiasGutierrezCruz/DeepLearningSpecialization/blob/main/3ConvolutionalNeuralNetworks/Week1/Convolution_model_Application.ipynb)
+3. [Residual Networks](https://github.com/IsaiasGutierrezCruz/DeepLearningSpecialization/tree/main/3ConvolutionalNeuralNetworks/Week2/ResidualNetworks)
+4. [Transfer Learning with MobileNet](https://github.com/IsaiasGutierrezCruz/DeepLearningSpecialization/tree/main/3ConvolutionalNeuralNetworks/Week2/TransferLearningWithMobileNet)
+5. [Autonomous Driving Application Car Detection](https://github.com/IsaiasGutierrezCruz/DeepLearningSpecialization/tree/main/3ConvolutionalNeuralNetworks/Week3/CarDetectionWithYOLO)
+6. [Image Segmentation with UNet](https://github.com/IsaiasGutierrezCruz/DeepLearningSpecialization/tree/main/3ConvolutionalNeuralNetworks/Week3/ImageSegmentationwithUNet)
+7. [Art Generation with Neural Style Transfer](https://github.com/IsaiasGutierrezCruz/DeepLearningSpecialization/tree/main/3ConvolutionalNeuralNetworks/Week4/ArtGenerationWithNeuralStyleTransfer)
+8. [Face Recognition](https://github.com/IsaiasGutierrezCruz/DeepLearningSpecialization/tree/main/3ConvolutionalNeuralNetworks/Week4/FaceRecognition)
 
 ### 5. Sequence Models 
+1. [Building a Recurrent Neural Network Step by Step](https://github.com/IsaiasGutierrezCruz/DeepLearningSpecialization/tree/main/4SequenceModels/Week1/BuildingYourRecurrentNeuralNetworkStepbyStep)
+2. [Dinosaurus Island Character Level Language Model](https://github.com/IsaiasGutierrezCruz/DeepLearningSpecialization/tree/main/4SequenceModels/Week1/DinosaurIslandCharacterLevelLanguageModeling)
+3. [Improvise a Jazz Solo with a LSTM Network](https://github.com/IsaiasGutierrezCruz/DeepLearningSpecialization/tree/main/4SequenceModels/Week1/JazzImprovisationwithLSTM)
+4. [Emogify](https://github.com/IsaiasGutierrezCruz/DeepLearningSpecialization/tree/main/4SequenceModels/Week2/Emogify)
+5. [Operations on Words Vectors](https://github.com/IsaiasGutierrezCruz/DeepLearningSpecialization/tree/main/4SequenceModels/Week2/OperationsOnWordVectors)
+6. [Neural Machine Translation with Attention](https://github.com/IsaiasGutierrezCruz/DeepLearningSpecialization/tree/main/4SequenceModels/Week3/NeuralMachineTranslation)
+7. [Trigger Word Detection](https://github.com/IsaiasGutierrezCruz/DeepLearningSpecialization/tree/main/4SequenceModels/Week3/TriggerWordDetection)
+8. [Transformer Network](https://github.com/IsaiasGutierrezCruz/DeepLearningSpecialization/tree/main/4SequenceModels/Week4/TransformerNetwork)
