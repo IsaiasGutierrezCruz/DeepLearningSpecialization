@@ -18,3 +18,14 @@ Instructor: [Andrew Ng](https://www.coursera.org/instructor/andrewng)
 
 ### 2. Improving Deep Neural Networks
 1. [Initialization](https://github.com/IsaiasGutierrezCruz/DeepLearningSpecialization/tree/main/2ImprovingDeepNeuralNetworks/1Initialization)
+2. [Regularization](https://github.com/IsaiasGutierrezCruz/DeepLearningSpecialization/tree/main/2ImprovingDeepNeuralNetworks/2Regularization)
+3. [Gradient Checking](https://github.com/IsaiasGutierrezCruz/DeepLearningSpecialization/tree/main/2ImprovingDeepNeuralNetworks/3GradientChecking)
+4. [Optimizaiton Methods](https://github.com/IsaiasGutierrezCruz/DeepLearningSpecialization/tree/main/2ImprovingDeepNeuralNetworks/4OptimizationMethods)
+5. [Tensorflow Introduction](https://github.com/IsaiasGutierrezCruz/DeepLearningSpecialization/tree/main/2ImprovingDeepNeuralNetworks/5Tensorflow_introduction)
+
+### 3. Structuring Machine Learning Projects
+This course was theoretical
+
+### 4. Convolutional Neural Networks
+
+### 5. Sequence Models 
