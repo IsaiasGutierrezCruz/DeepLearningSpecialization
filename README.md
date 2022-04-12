@@ -6,11 +6,12 @@ Instructor: [Andrew Ng](https://www.coursera.org/instructor/andrewng)
 
 ---
 
-## Courses 
+## Courses
 
 ### 1. Neural Networks and Deep Learning 
 
-1. [Python Basics with Numpy](https://github.com/IsaiasGutierrezCruz/DeepLearningSpecialization/tree/main/1NeuralNetworksandDeepLearning/1Python_Basics_with_numpy)
+[comment]: # 1. [Python Basics with Numpy](https://github.com/IsaiasGutierrezCruz/DeepLearningSpecialization/tree/main/1NeuralNetworksandDeepLearning/1Python_Basics_with_numpy)
+1. [Python Basics with Numpy](https://nbviewer.org/github/IsaiasGutierrezCruz/DeepLearningSpecialization/blob/main/1NeuralNetworksandDeepLearning/1Python_Basics_with_numpy/1Python_Basics_with_Numpy.ipynb)
 2. [Logistic Regression with a Neural Network Mindset](https://github.com/IsaiasGutierrezCruz/DeepLearningSpecialization/tree/main/1NeuralNetworksandDeepLearning/2LogisticRegression)
 3. [Planar Data Classification with One Hidden Layer](https://github.com/IsaiasGutierrezCruz/DeepLearningSpecialization/tree/main/1NeuralNetworksandDeepLearning/3PlanarDataClassificationWithOneHiddenLayer)
 4. [Building Your Deep Neural Network Step by Step](https://github.com/IsaiasGutierrezCruz/DeepLearningSpecialization/tree/main/1NeuralNetworksandDeepLearning/4BuildingYourDeepNeuralNetworkStepbyStep)
@@ -46,5 +47,3 @@ This course was theoretical
 7. [Trigger Word Detection](https://nbviewer.org/github/IsaiasGutierrezCruz/DeepLearningSpecialization/blob/main/4SequenceModels/Week3/TriggerWordDetection/Trigger_word_detection_v2a.ipynb)
 8. [Transformer Network](https://github.com/IsaiasGutierrezCruz/DeepLearningSpecialization/tree/main/4SequenceModels/Week4/TransformerNetwork)
 
-
-[comment]: # (This actually is the most platform independent comment)
