@@ -45,3 +45,6 @@ This course was theoretical
 6. [Neural Machine Translation with Attention](https://github.com/IsaiasGutierrezCruz/DeepLearningSpecialization/tree/main/4SequenceModels/Week3/NeuralMachineTranslation)
 7. [Trigger Word Detection](https://nbviewer.org/github/IsaiasGutierrezCruz/DeepLearningSpecialization/blob/main/4SequenceModels/Week3/TriggerWordDetection/Trigger_word_detection_v2a.ipynb)
 8. [Transformer Network](https://github.com/IsaiasGutierrezCruz/DeepLearningSpecialization/tree/main/4SequenceModels/Week4/TransformerNetwork)
+
+
+[comment]: # (This actually is the most platform independent comment)
