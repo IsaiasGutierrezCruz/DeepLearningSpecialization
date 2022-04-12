@@ -10,28 +10,27 @@ Instructor: [Andrew Ng](https://www.coursera.org/instructor/andrewng)
 
 ### 1. Neural Networks and Deep Learning 
 
-[comment]: # 1. [Python Basics with Numpy](https://github.com/IsaiasGutierrezCruz/DeepLearningSpecialization/tree/main/1NeuralNetworksandDeepLearning/1Python_Basics_with_numpy)
 1. [Python Basics with Numpy](https://nbviewer.org/github/IsaiasGutierrezCruz/DeepLearningSpecialization/blob/main/1NeuralNetworksandDeepLearning/1Python_Basics_with_numpy/1Python_Basics_with_Numpy.ipynb)
-2. [Logistic Regression with a Neural Network Mindset](https://github.com/IsaiasGutierrezCruz/DeepLearningSpecialization/tree/main/1NeuralNetworksandDeepLearning/2LogisticRegression)
-3. [Planar Data Classification with One Hidden Layer](https://github.com/IsaiasGutierrezCruz/DeepLearningSpecialization/tree/main/1NeuralNetworksandDeepLearning/3PlanarDataClassificationWithOneHiddenLayer)
-4. [Building Your Deep Neural Network Step by Step](https://github.com/IsaiasGutierrezCruz/DeepLearningSpecialization/tree/main/1NeuralNetworksandDeepLearning/4BuildingYourDeepNeuralNetworkStepbyStep)
-5. [Deep Neural Network Application](https://github.com/IsaiasGutierrezCruz/DeepLearningSpecialization/tree/main/1NeuralNetworksandDeepLearning/5DeepNeuralNetworkApplication)
+2. [Logistic Regression with a Neural Network Mindset](https://nbviewer.org/github/IsaiasGutierrezCruz/DeepLearningSpecialization/blob/main/1NeuralNetworksandDeepLearning/2LogisticRegression/Logistic_Regression_with_a_Neural_Network_mindset.ipynb)
+3. [Planar Data Classification with One Hidden Layer](https://nbviewer.org/github/IsaiasGutierrezCruz/DeepLearningSpecialization/blob/main/1NeuralNetworksandDeepLearning/3PlanarDataClassificationWithOneHiddenLayer/Planar_data_classification_with_one_hidden_laye.ipynb)
+4. [Building Your Deep Neural Network Step by Step](https://nbviewer.org/github/IsaiasGutierrezCruz/DeepLearningSpecialization/blob/main/1NeuralNetworksandDeepLearning/4BuildingYourDeepNeuralNetworkStepbyStep/Building_your_Deep_Neural_Network_Step_by_Step.ipynb)
+5. [Deep Neural Network Application](https://nbviewer.org/github/IsaiasGutierrezCruz/DeepLearningSpecialization/blob/main/1NeuralNetworksandDeepLearning/5DeepNeuralNetworkApplication/Deep%20Neural%20Network%20-%20Application.ipynb)
 
 ### 2. Improving Deep Neural Networks
-1. [Initialization](https://github.com/IsaiasGutierrezCruz/DeepLearningSpecialization/tree/main/2ImprovingDeepNeuralNetworks/1Initialization)
-2. [Regularization](https://github.com/IsaiasGutierrezCruz/DeepLearningSpecialization/tree/main/2ImprovingDeepNeuralNetworks/2Regularization)
-3. [Gradient Checking](https://github.com/IsaiasGutierrezCruz/DeepLearningSpecialization/tree/main/2ImprovingDeepNeuralNetworks/3GradientChecking)
-4. [Optimizaiton Methods](https://github.com/IsaiasGutierrezCruz/DeepLearningSpecialization/tree/main/2ImprovingDeepNeuralNetworks/4OptimizationMethods)
-5. [Tensorflow Introduction](https://github.com/IsaiasGutierrezCruz/DeepLearningSpecialization/tree/main/2ImprovingDeepNeuralNetworks/5Tensorflow_introduction)
+1. [Initialization](https://nbviewer.org/github/IsaiasGutierrezCruz/DeepLearningSpecialization/blob/main/2ImprovingDeepNeuralNetworks/1Initialization/Initialization.ipynb)
+2. [Regularization](https://nbviewer.org/github/IsaiasGutierrezCruz/DeepLearningSpecialization/blob/main/2ImprovingDeepNeuralNetworks/2Regularization/Regularization.ipynb)
+3. [Gradient Checking](https://nbviewer.org/github/IsaiasGutierrezCruz/DeepLearningSpecialization/blob/main/2ImprovingDeepNeuralNetworks/3GradientChecking/Gradient_Checking.ipynb)
+4. [Optimizaiton Methods](https://nbviewer.org/github/IsaiasGutierrezCruz/DeepLearningSpecialization/blob/main/2ImprovingDeepNeuralNetworks/4OptimizationMethods/Optimization_methods.ipynb)
+5. [Tensorflow Introduction](https://nbviewer.org/github/IsaiasGutierrezCruz/DeepLearningSpecialization/blob/main/2ImprovingDeepNeuralNetworks/5Tensorflow_introduction/Tensorflow_introduction.ipynb)
 
 ### 3. Structuring Machine Learning Projects
 This course was theoretical
 
 ### 4. Convolutional Neural Networks
-1. [Convolution Model Step by Step](https://github.com/IsaiasGutierrezCruz/DeepLearningSpecialization/blob/main/3ConvolutionalNeuralNetworks/Week1/Convolution_model_Step_by_Step_v1.ipynb)
-2. [Convolution Model Application](https://github.com/IsaiasGutierrezCruz/DeepLearningSpecialization/blob/main/3ConvolutionalNeuralNetworks/Week1/Convolution_model_Application.ipynb)
-3. [Residual Networks](https://github.com/IsaiasGutierrezCruz/DeepLearningSpecialization/tree/main/3ConvolutionalNeuralNetworks/Week2/ResidualNetworks)
-4. [Transfer Learning with MobileNet](https://github.com/IsaiasGutierrezCruz/DeepLearningSpecialization/tree/main/3ConvolutionalNeuralNetworks/Week2/TransferLearningWithMobileNet)
+1. [Convolution Model Step by Step](https://nbviewer.org/github/IsaiasGutierrezCruz/DeepLearningSpecialization/blob/main/3ConvolutionalNeuralNetworks/Week1/Convolution_model_Step_by_Step_v1.ipynb)
+2. [Convolution Model Application](https://nbviewer.org/github/IsaiasGutierrezCruz/DeepLearningSpecialization/blob/main/3ConvolutionalNeuralNetworks/Week1/Convolution_model_Application.ipynb)
+3. [Residual Networks](https://nbviewer.org/github/IsaiasGutierrezCruz/DeepLearningSpecialization/blob/main/3ConvolutionalNeuralNetworks/Week2/ResidualNetworks/Residual_Networks.ipynb)
+4. [Transfer Learning with MobileNet](https://nbviewer.org/github/IsaiasGutierrezCruz/DeepLearningSpecialization/blob/main/3ConvolutionalNeuralNetworks/Week2/TransferLearningWithMobileNet/Transfer_learning_with_MobileNet_v1.ipynb)
 5. [Autonomous Driving Application Car Detection](https://github.com/IsaiasGutierrezCruz/DeepLearningSpecialization/tree/main/3ConvolutionalNeuralNetworks/Week3/CarDetectionWithYOLO)
 6. [Image Segmentation with UNet](https://github.com/IsaiasGutierrezCruz/DeepLearningSpecialization/tree/main/3ConvolutionalNeuralNetworks/Week3/ImageSegmentationwithUNet)
 7. [Art Generation with Neural Style Transfer](https://github.com/IsaiasGutierrezCruz/DeepLearningSpecialization/tree/main/3ConvolutionalNeuralNetworks/Week4/ArtGenerationWithNeuralStyleTransfer)
